@@ -201,7 +201,9 @@ Identifies individuals from unique cardiovascular patterns in PPG signals — a 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
+  <td width="40%" valign="top" align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Santhosh-04-S&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="100%"/>
+  </td>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh-04-S&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
