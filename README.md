@@ -41,7 +41,7 @@ I'm a **B.Sc. Engineering (Hons.) in Biomedical Engineering** undergraduate at t
 
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Santhosh-04-S&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Santhosh-04-S&theme=tokyonight" alt="GitHub Profile Summary" width="100%"/>
 
 </td>
 
