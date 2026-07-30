@@ -216,8 +216,7 @@ Identifies individuals from unique cardiovascular patterns in PPG signals — a 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santhosh-04-S&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh-04-S&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-04-S&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 <p align="center">
