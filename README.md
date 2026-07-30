@@ -193,43 +193,31 @@ Identifies individuals from unique cardiovascular patterns in PPG signals — a 
 
 ---
 
-## 🤝 Connect With Friends & Collaborators
-
-<p align="center">
-  <a href="https://github.com/Abdul-Rahman-bme/abdul-rahman-bme"><img src="https://img.shields.io/badge/Abdul--Rahman--bme-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/chalee88"><img src="https://img.shields.io/badge/chalee88-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/DPHeshanRanasinghe"><img src="https://img.shields.io/badge/DPHeshanRanasinghe-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/LGsekara1"><img src="https://img.shields.io/badge/LGsekara1-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Santhosh-04-S&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh-04-S&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Santhosh-04-S&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-04-S&amp;theme=tokyo-night&amp;hide_border=true" alt="Activity Graph" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Santhosh-04-S&amp;theme=darkhub&amp;no-frame=true&amp;row=1&amp;column=6" alt="Trophies"/>
 </p>
 
-<!-- Animated contribution snake — see setup instructions in the accompanying message -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Santhosh-04-S/Santhosh-04-S/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
 </p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1fc8db,100:0e75b6&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1fc8db,100:0e75b6&amp;height=120&amp;section=footer"/>
 
 <p align="center"><i>Thanks for stopping by! ⭐ this profile if you found something interesting.</i></p>
