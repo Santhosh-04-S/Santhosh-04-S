@@ -1,21 +1,46 @@
-<h1 align="center">Hi there, I'm Santhosh 👋</h1>
-<h3 align="center">Biomedical Engineering Undergraduate | Signal Processing & AI Enthusiast</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1fc8db&height=200&section=header&text=Hi%20There!%20I'm%20%5BYour%20Name%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Biomedical%20Engineering%20Undergraduate%20%7C%20Signal%20Processing%20%26%20AI%20Enthusiast&descAlignY=55&descSize=18" alt="header banner"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="followers" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Biomedical+Signal+Processing;Embedded+Systems+%26+IoT;Machine+Learning+for+Healthcare;Building+affordable+medical+devices" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=1fc8db" alt="followers" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-brightgreen?style=for-the-badge" alt="status" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-### 👋 About Me
+## 👋 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 I'm a **B.Sc. Engineering (Hons.) in Biomedical Engineering** undergraduate at the **University of Moratuwa**, studying under the Department of Electronic & Telecommunication Engineering. My work sits at the intersection of **biomedical signal processing, embedded systems, and machine learning** — I love building devices and algorithms that turn raw physiological signals into something useful for real healthcare problems.
 
-- 🔭 Currently building biomedical devices and signal-processing pipelines (see Projects below)
+- 🔭 Currently building biomedical devices and signal-processing pipelines
 - 🌱 Deepening my knowledge of machine learning applied to physiological signals
 - 💡 Passionate about affordable, low-resource-friendly medical technology
-- 📫 Reach me via the links in the Connect section below
+- 📫 Reach me via the links above
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -42,87 +67,170 @@ Department of Electronic & Telecommunication Engineering, University of Moratuwa
 
 ---
 
-### 🧠 Research Interests
+## 🧠 Research Interests
 
-- Signal Processing (biomedical signals: ECG, EMG, EEG, PPG)
-- Machine Learning applied to physiological data
+<p align="center">
+  <img src="https://img.shields.io/badge/Signal%20Processing-0e75b6?style=for-the-badge" alt="signal processing"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-1fc8db?style=for-the-badge" alt="machine learning"/>
+  <img src="https://img.shields.io/badge/Biomedical%20Signals-ff6b6b?style=for-the-badge" alt="biomedical signals"/>
+</p>
+
+Focused on applying **signal processing** and **machine learning** to physiological data — from raw ECG/EMG/EEG/PPG acquisition to feature extraction and predictive modeling for real-world healthcare use cases.
 
 ---
 
-### 🛠️ Technical Stack
+## 🛠️ Technical Stack
+
+<div align="center">
 
 **Programming, AI & Vision**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,matlab,tensorflow,opencv,git" alt="programming skills"/>
 
 **Hardware, Embedded & Design**
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Altium](https://img.shields.io/badge/Altium%20Designer-006747?style=for-the-badge)
-![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-D71920?style=for-the-badge)
-![Verilog](https://img.shields.io/badge/Verilog%20HDL-1E90FF?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,verilog,vscode" alt="hardware skills"/>
+<img src="https://img.shields.io/badge/ESP32%20%2F%20ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="esp32"/>
+<img src="https://img.shields.io/badge/Altium%20Designer-006747?style=flat-square" alt="altium"/>
+<img src="https://img.shields.io/badge/SOLIDWORKS-D71920?style=flat-square" alt="solidworks"/>
+<img src="https://img.shields.io/badge/LTSpice-8B0000?style=flat-square" alt="ltspice"/>
 
-**Hardware + Embedded Details**
+</div>
+
+<table>
+<tr>
+<th align="left">🔩 Hardware + Embedded</th>
+<th align="left">🩺 Biomedical + AI</th>
+</tr>
+<tr>
+<td valign="top">
+
 - Arduino, ESP32, ESP8266, Raspberry Pi 5, ATmega328P
 - Firmware development for sensor-based systems
-- Communication protocols: MQTT, ESP-NOW, I2C, UART
+- Communication: MQTT, ESP-NOW, I2C, UART
 - PCB design with Altium Designer
 - Analog circuit simulation with LTSpice
 - Mechanical enclosure design with SOLIDWORKS
 - FPGA basics with Verilog HDL and DE0-Nano
 
-**Biomedical + AI Details**
+</td>
+<td valign="top">
+
 - Physiological signal acquisition: ECG, EMG, EEG, PPG
-- Digital filtering, FFT, MFCC, and feature extraction
+- Digital filtering, FFT, MFCC, feature extraction
 - Medical imaging
-- Data acquisition systems and medical device prototyping
+- Data acquisition systems & device prototyping
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📜 Certifications
+## 📜 Certifications
 
-_Coming soon — will be updated shortly._
-
----
-
-### 🚀 Featured Projects
-
-**🌡️ CryoThermX — Electronic Hot & Cold Compression Device**
-An electronic thermal therapy device that solves the inconvenience, inefficiency, and safety risks of conventional methods like ice packs and hot water bags. Enables instant switching between hot/cold, precise temperature control, and safe household use — making thermal therapy more accessible and reliable.
-
-**💉 Smart Vaccine Cold-Chain Monitor**
-Vaccines must stay within 2–8°C to preserve potency, and rural transport often loses that chain unnoticed. This system continuously measures internal temperature, wirelessly transmits data without relying on Wi-Fi infrastructure, and gives visual/audio alerts on excursions. Configurable thresholds and rechargeable battery power make it affordable and modular for low-resource healthcare settings.
-
-**💓 Pulse Detection Monitor**
-A custom-built optical pulse sensor using a photodiode and phototransistor to detect blood flow at the fingertip and calculate pulse rate in real time.
-
-**🔊 Automatic Gain Controller (AGC)**
-Automatically adjusts gain to keep output volume constant — compressing loud sounds and amplifying quiet ones. Applications include broadcasting, podcasting, hearing aids, and voice recorders.
-
-**🤖 Autonomous Food Delivery Robot**
-Restaurant staff lose 30–40% of their time carrying food from kitchen to tables. This robot automates that process using magnetic line-following navigation.
-
-**🫀 PulsePrint — PPG-Based Biometric Identification**
-A deep-learning biometric system that identifies individuals from their unique cardiovascular patterns in Photoplethysmography (PPG) signals — a full pipeline from raw signal preprocessing to biometric classification and evaluation, offering an alternative to fingerprint/facial/iris biometrics with resilience to noise and physiological variation.
-
+> 🚧 _Coming soon — this section will be updated shortly._
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌡️ CryoThermX
+**Electronic Hot & Cold Compression Device**
+
+Solves the inconvenience, inefficiency, and safety risks of conventional thermal therapy (ice packs, hot water bags). Enables instant hot/cold switching, precise temperature control, and safe household use.
+
+</td>
+<td width="50%" valign="top">
+
+### 💉 Smart Vaccine Cold-Chain Monitor
+**IoT Cold-Chain Integrity System**
+
+Keeps vaccines within 2–8°C during rural transport. Continuously measures temperature, transmits data without Wi-Fi, and gives visual/audio alerts on excursions — affordable and modular for low-resource healthcare.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💓 Pulse Detection Monitor
+**Optical Fingertip Pulse Sensor**
+
+A custom-built sensor using a photodiode and phototransistor to detect fingertip blood flow and calculate real-time pulse rate.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔊 Automatic Gain Controller (AGC)
+**Adaptive Audio Level Control**
+
+Automatically adjusts gain to keep output volume constant — compressing loud sounds and amplifying quiet ones. Used in broadcasting, podcasting, hearing aids, and voice recorders.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Autonomous Food Delivery Robot
+**Magnetic Line-Following Robot**
+
+Restaurant staff lose 30–40% of their time carrying food between kitchen and tables — this robot automates delivery using magnetic line-following navigation.
+
+</td>
+<td width="50%" valign="top">
+
+### 🫀 PulsePrint
+**PPG-Based Deep Learning Biometrics**
+
+Identifies individuals from unique cardiovascular patterns in PPG signals — a full pipeline from signal preprocessing to biometric classification, offering a noise-resilient alternative to fingerprint/facial/iris biometrics.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Connect With Friends & Collaborators
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" alt="GitHub Streak" />
+  <a href="https://github.com/Abdul-Rahman-bme/abdul-rahman-bme"><img src="https://img.shields.io/badge/Abdul--Rahman--bme-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/chalee88"><img src="https://img.shields.io/badge/chalee88-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/DPHeshanRanasinghe"><img src="https://img.shields.io/badge/DPHeshanRanasinghe-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/LGsekara1"><img src="https://img.shields.io/badge/LGsekara1-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+<!-- Animated contribution snake — see setup instructions in the accompanying message -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1fc8db,100:0e75b6&height=120&section=footer"/>
 
 <p align="center"><i>Thanks for stopping by! ⭐ this profile if you found something interesting.</i></p>
