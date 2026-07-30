@@ -230,10 +230,6 @@ alt="GitHub Streak" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Santhosh-04-S/Santhosh-04-S/main/profile-3d-contrib/profile-green-animate.svg" width="100%">
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Santhosh-04-S/Santhosh-04-S/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
 </p>
 
