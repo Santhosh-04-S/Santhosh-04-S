@@ -229,6 +229,13 @@ alt="GitHub Streak" width="100%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-04-S&amp;theme=tokyo-night&amp;hide_border=true" alt="Activity Graph" width="100%"/>
 </p>
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Santhosh-04-S&theme=tokyonight&no-frame=true&column=6" 
+  alt="GitHub Trophies"/>
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Santhosh-04-S/Santhosh-04-S/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
 </p>
