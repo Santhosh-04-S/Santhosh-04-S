@@ -32,7 +32,7 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm a **B.Sc. Engineering (Hons.) in Biomedical Engineering** undergraduate at the **University of Moratuwa**, studying under the Department of Electronic & Telecommunication Engineering. My work sits at the intersection of **biomedical signal processing, embedded systems, and machine learning** — I love building devices and algorithms that turn raw physiological signals into something useful for real healthcare problems.
+I'm a **B.Sc. Engineering (Hons.) in Biomedical Engineering** undergraduate at the **University of Moratuwa**, studying under the Department of Electronic & Telecommunication Engineering. My work sits at the intersection of **biomedical signal processing, embedded systems, Brain Computer Interface, and machine learning** — I love building devices and algorithms that turn raw physiological signals into something useful for real healthcare problems.
 
 - 🔭 Currently building biomedical devices and signal-processing pipelines
 - 🌱 Deepening my knowledge of machine learning applied to physiological signals
