@@ -209,7 +209,7 @@ Identifies individuals from unique cardiovascular patterns in PPG signals — a 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Santhosh-04-S&amp;theme=darkhub&amp;no-frame=true&amp;row=1&amp;column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Santhosh-04-S&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
