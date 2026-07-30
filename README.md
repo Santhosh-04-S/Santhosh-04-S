@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1fc8db&height=200&section=header&text=Hi%20There!%20I'm%20Santhosh%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Biomedical%20Engineering%20Undergraduate%20%7C%20Signal%20Processing%20%26%20AI%20Enthusiast&descAlignY=55&descSize=18" alt="header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1fc8db&height=200&section=header&text=Santhosh&fontSize=42"/>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Biomedical+Signal+Processing;Embedded+Systems+%26+IoT;Machine+Learning+for+Healthcare;Building+affordable+medical+devices" alt="Typing SVG" />
