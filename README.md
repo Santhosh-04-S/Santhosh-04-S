@@ -179,7 +179,7 @@ Keeps vaccines within 2–8°C during rural transport. Continuously measures tem
 <tr>
 <td width="50%" valign="top">
 
-## 💓 Pulse Detection Monitor
+💓 Pulse Detection Monitor
 **Optical Fingertip Pulse Sensor**
 
 A custom-built sensor using a photodiode and phototransistor to detect fingertip blood flow and calculate real-time pulse rate.
@@ -197,7 +197,7 @@ Automatically adjusts gain to keep output volume constant — compressing loud s
 <tr>
 <td width="50%" valign="top">
 
-## 🤖 Autonomous Food Delivery Robot
+🤖 Autonomous Food Delivery Robot
 **Magnetic Line-Following Robot**
 
 Restaurant staff lose 30–40% of their time carrying food between kitchen and tables — this robot automates delivery using magnetic line-following navigation.
@@ -216,7 +216,7 @@ Identifies individuals from unique cardiovascular patterns in PPG signals — a 
 
 ---
 
- 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 
 <table>
 <tr>
