@@ -26,7 +26,7 @@
 </p>
 ---
 
-👋 About Me
+##👋 About Me
 
 <table>
 <tr>
@@ -50,7 +50,7 @@ alt="GitHub Stats" width="350"/>
 
 </tr>
 </table>
- 🎓 Education
+## 🎓 Education
 
 **B.Sc. Engineering (Hons.) in Biomedical Engineering**
 Department of Electronic & Telecommunication Engineering, University of Moratuwa
