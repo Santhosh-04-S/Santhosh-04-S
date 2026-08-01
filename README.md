@@ -26,7 +26,7 @@
 </p>
 ---
 
-## 👋 About Me
+👋 About Me
 
 <table>
 <tr>
@@ -50,7 +50,7 @@ alt="GitHub Stats" width="350"/>
 
 </tr>
 </table>
-### 🎓 Education
+ 🎓 Education
 
 **B.Sc. Engineering (Hons.) in Biomedical Engineering**
 Department of Electronic & Telecommunication Engineering, University of Moratuwa
@@ -148,7 +148,7 @@ Focused on applying **signal processing** and **machine learning** to physiologi
 
 ---
 
-## 📜 Certifications
+📜 Certifications
 
 > 🚧 _Coming soon — this section will be updated shortly._
 
@@ -160,7 +160,7 @@ Focused on applying **signal processing** and **machine learning** to physiologi
 <tr>
 <td width="50%" valign="top">
 
-### 🌡️ CryoThermX
+ 🌡️ CryoThermX
 **Electronic Hot & Cold Compression Device**
 
 Solves the inconvenience, inefficiency, and safety risks of conventional thermal therapy (ice packs, hot water bags). Enables instant hot/cold switching, precise temperature control, and safe household use.
@@ -178,7 +178,7 @@ Keeps vaccines within 2–8°C during rural transport. Continuously measures tem
 <tr>
 <td width="50%" valign="top">
 
-### 💓 Pulse Detection Monitor
+💓 Pulse Detection Monitor
 **Optical Fingertip Pulse Sensor**
 
 A custom-built sensor using a photodiode and phototransistor to detect fingertip blood flow and calculate real-time pulse rate.
@@ -196,7 +196,7 @@ Automatically adjusts gain to keep output volume constant — compressing loud s
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Autonomous Food Delivery Robot
+🤖 Autonomous Food Delivery Robot
 **Magnetic Line-Following Robot**
 
 Restaurant staff lose 30–40% of their time carrying food between kitchen and tables — this robot automates delivery using magnetic line-following navigation.
@@ -215,7 +215,7 @@ Identifies individuals from unique cardiovascular patterns in PPG signals — a 
 
 ---
 
-## 📊 GitHub Stats & Activity
+ 📊 GitHub Stats & Activity
 
 <table>
 <tr>
@@ -246,7 +246,7 @@ alt="GitHub Streak" width="100%"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-04-S&amp;theme=tokyo-night&amp;hide_border=true" alt="Activity Graph" width="100%"/>
 </p>
 
-## 🏆 GitHub Achievements
+🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Santhosh-04-S&theme=tokyonight&no-frame=true&column=6" 
