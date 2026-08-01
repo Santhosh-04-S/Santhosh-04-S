@@ -73,12 +73,27 @@ Department of Electronic & Telecommunication Engineering, University of Moratuwa
 
 ## 🧠 Research Interests
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Signal%20Processing-0e75b6?style=for-the-badge" alt="signal processing"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-1fc8db?style=for-the-badge" alt="machine learning"/>
-  <img src="https://img.shields.io/badge/Biomedical%20Signals-ff6b6b?style=for-the-badge" alt="biomedical signals"/>
-</p>
+<h2 align="center">Research Interests & Focus Areas</h2>
 
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Bio--signal%20Processing-0e75b6?style=for-the-badge" alt="Bio-signal Processing"/>
+
+  <img src="https://img.shields.io/badge/Medical%20Image%20Processing-5c2d91?style=for-the-badge" alt="Medical Image Processing"/>
+
+  <img src="https://img.shields.io/badge/Machine%20Learning%20in%20Biomedical%20Engineering-1fc8db?style=for-the-badge" alt="Machine Learning"/>
+
+  <img src="https://img.shields.io/badge/Physiological%20Modeling-ff9f1c?style=for-the-badge" alt="Physiological Modeling"/>
+
+  <img src="https://img.shields.io/badge/Wearable%20Sensor%20Design-2ec4b6?style=for-the-badge" alt="Wearable Sensor Design"/>
+
+  <img src="https://img.shields.io/badge/Sensor%20Development%20%26%20Signal%20Conditioning-e71d36?style=for-the-badge" alt="Sensor Development"/>
+
+  <img src="https://img.shields.io/badge/Biomedical%20Device%20Design%20%26%20Instrumentation-8338ec?style=for-the-badge" alt="Biomedical Devices"/>
+
+  <img src="https://img.shields.io/badge/Brain--Computer%20Interface%20%28BCI%29%20%26%20HCI-06d6a0?style=for-the-badge" alt="BCI and HCI"/>
+
+</p>
 Focused on applying **signal processing** and **machine learning** to physiological data — from raw ECG/EMG/EEG/PPG acquisition to feature extraction and predictive modeling for real-world healthcare use cases.
 
 ---
