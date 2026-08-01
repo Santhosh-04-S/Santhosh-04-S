@@ -50,6 +50,7 @@ alt="GitHub Stats" width="350"/>
 
 </tr>
 </table>
+
 ## 🎓 Education
 
 **B.Sc. Engineering (Hons.) in Biomedical Engineering**
