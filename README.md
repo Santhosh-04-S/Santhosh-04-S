@@ -148,10 +148,12 @@ Focused on applying **signal processing** and **machine learning** to physiologi
 </table>
 
 ---
-
 ## 📜 Certifications
 
-> 🚧 _Coming soon — this section will be updated shortly._
+| Certification | Issuer | Credential |
+|---|---|---|
+| Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford Online (Coursera) | [View Certificate]([YOUR_LINK](https://www.coursera.org/account/accomplishments/verify/24O6FEU8HBRF)) |
+
 
 ---
 
