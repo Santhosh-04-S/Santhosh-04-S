@@ -219,7 +219,7 @@ Identifies individuals from unique cardiovascular patterns in PPG signals — a 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Santhosh-04-S&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh-04-S&theme=tokyonight&hide_border=true" 
        width="48%"/>
 </p>
