@@ -219,13 +219,15 @@ Identifies individuals from unique cardiovascular patterns in PPG signals — a 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Santhosh-04-S&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh-04-S&theme=tokyonight&hide_border=true" 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Santhosh-04-S&layout=compact&theme=tokyonight&hide_border=true"
+       alt="Top Languages"
+       width="48%"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhosh-04-S&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak"
        width="48%"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Santhosh-04-S&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-04-S&amp;theme=tokyo-night&amp;hide_border=true" alt="Activity Graph" width="100%"/>
