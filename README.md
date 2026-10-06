@@ -41,13 +41,6 @@ I'm a **B.Sc. Engineering (Hons.) in Biomedical Engineering** undergraduate at t
 
 </td>
 
-<td width="40%" valign="middle" align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Santhosh-04-S&show_icons=true&theme=tokyonight&hide_border=true&width=350" 
-alt="GitHub Stats" width="350"/>
-
-</td>
-
 </tr>
 </table>
 
